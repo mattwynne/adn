@@ -3,6 +3,7 @@
     <title>Agile Delivery Network</title>
     <style>
       h1 { 
+        margin-top: 100px;
         text-align: center;
         font-size: 3em;
       }
@@ -10,6 +11,11 @@
       #statement {
         font-size: 1.2em;
         text-align: center;
+      }
+      
+      #content { 
+        margin-top: 50px;
+        margin-left: 100px;
       }
     </style>
   </head>
@@ -24,6 +30,8 @@
       <p>We believe that a key part of our success comes from applying the principles in the <a href="http://agilemanifesto.org/">Manifesto for Agile Software Development</a>.</p>
       <p>We are willing to help.</p>
     </div>
-    <%= yield %>
+    <div id="content">
+      <%= yield %>
+    </div>
   </body>
 </html>

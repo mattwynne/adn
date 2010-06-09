@@ -6,6 +6,12 @@
     "logo_url":"http://static.flickr.com/28/buddyicons/56888801@N00.jpg?1131518594"
   },
   {
+    "name":"Rutherford Software",
+    "description":"Agile coaching, analysis and software development",
+    "url":"http://www.kevinrutherford.co.uk",
+    "logo_url":"http://www.kevinrutherford.co.uk/images/kr-cartoon.jpg"
+  },
+  {
     "name":"Your Company here?",
     "description":"It's simple to add your company to this list. Simply visit <a href=\"http://github.com/mattwynne/adn\">http://github.com/mattwynne/adn</a> and follow the instructions in the README"
   }

@@ -12,6 +12,12 @@
     "logo_url":"http://www.2dcargo.com/2dlogo.jpg"
   },
   {
+    "name":"Eden Development", 
+    "description":"We love enabling people to achieve great things through fantastic software.", 
+    "url":"http://www.edendevelopment.co.uk/", 
+    "logo_url":"http://edendevelopment.co.uk/images/eden_logo.jpg"
+  },
+  {
     "name":"Your Company here?",
     "description":"It's simple to add your company to this list. Simply visit <a href=\"http://github.com/mattwynne/adn\">http://github.com/mattwynne/adn</a> and follow the instructions in the README"
   }

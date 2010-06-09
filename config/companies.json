@@ -1,7 +1,7 @@
 [
   {
     "name":"Matt Wynne Limited",
-    "description":"magic",
+    "description":"Amazing software. Effective teams.",
     "url":"http://mattwynne.net",
     "logo_url":"http://static.flickr.com/28/buddyicons/56888801@N00.jpg?1131518594"
   },
@@ -13,6 +13,6 @@
   },
   {
     "name":"Your Company here?",
-    "description":"It's simple to add your company to this list. Simply visit <a href=\"http://github.com/mattwynne/adn\">http://github.com/mattwynne/adn</a> and follow the instructions in the README"
+    "description":"If you'd like to see your company in this list, visit <a href=\"http://github.com/mattwynne/adn\">http://github.com/mattwynne/adn</a> and follow the instructions in the README"
   }
 ]

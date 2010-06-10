@@ -1,0 +1,3 @@
+* change companies config to use many files in a folder so we don't get merge conflicts
+* try to run rake companies automatically on boot on heroku
+* styling anyone?

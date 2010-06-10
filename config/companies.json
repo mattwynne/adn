@@ -24,6 +24,12 @@
     "logo_url":"http://edendevelopment.co.uk/images/eden_logo.jpg"
   },
   {
+    "name":"EdgeCase",
+    "description":"We are a team of talented software artisans who love solving problems",
+    "url":"http://edgecase.com",
+    "logo_url":"http://edgecase.com/images/logo.gif"
+  },
+  {
     "name":"Your Company here?",
     "description":"If you'd like to see your company in this list, visit <a href=\"http://github.com/mattwynne/adn\">http://github.com/mattwynne/adn</a> and follow the instructions in the README"
   }

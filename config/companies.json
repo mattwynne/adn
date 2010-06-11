@@ -29,6 +29,12 @@
     "url":"http://edgecase.com",
     "logo_url":"http://edgecase.com/images/logo.gif"
   },
+   {
+    "name":"Bruce Scharlau",
+    "description":"Academic type interested in helping people and companies develop successful software projects",
+    "url":"http://www.csd.abdn.ac.uk/~bscharla",
+    "logo_url":"http://www.csd.abdn.ac.uk/~bscharla/images/bscharlau.jpg"
+  },
   {
     "name":"Unboxed Consulting",
     "description":"We deliver business benefits to our clients early on and frequently by combining modern management techniques with some of the industry’s leading technical practitioners.",

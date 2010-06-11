@@ -29,6 +29,12 @@
     "url":"http://edgecase.com",
     "logo_url":"http://edgecase.com/images/logo.gif"
   },
+   {
+    "name":"Bruce Scharlau",
+    "description":"Academic type interested in helping people and companies develop successful software projects",
+    "url":"http://www.csd.abdn.ac.uk/~bscharla",
+    "logo_url":"http://www.csd.abdn.ac.uk/~bscharla/images/bscharlau.jpg"
+  },
   {
     "name":"Your Company here?",
     "description":"If you'd like to see your company in this list, visit <a href=\"http://github.com/mattwynne/adn\">http://github.com/mattwynne/adn</a> and follow the instructions in the README"

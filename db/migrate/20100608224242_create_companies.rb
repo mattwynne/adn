@@ -2,7 +2,7 @@ class CreateCompanies < ActiveRecord::Migration
   def self.up
     create_table :companies do |t|
       t.string :name
-      t.string :description
+      t.text   :description
       t.string :logo_url
       t.string :url
 

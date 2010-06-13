@@ -1,6 +1,6 @@
 # Agile Delivery Network
 
-http://adn.heroku.com
+[http://adn.heroku.com](http://adn.heroku.com)
 
 Membership of the ADN is by invitation only.
 

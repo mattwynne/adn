@@ -2,10 +2,18 @@
 
 [http://adn.heroku.com](http://adn.heroku.com)
 
-Membership of the ADN is by invitation only.
+## How to Join
 
-If you've been invited to join the network, here's how to add your name to the website:
+Membership of the ADN is currently by invitation only.
+
+If you'd like to join, speak to [one of the existing members](http://adn.heroku.com) and see whether they'll refer you. It will help if you've worked with them on a project in the past.
+
+If you've been invited to join the network, here's the preferred way to add your name to the website:
 
   * fork this repository
   * edit the file config/companies.json 
   * send me a pull request
+
+We prefer it that way because the ADN is administered by volunteers and that's the method that's easiest for us. We do appreciate that not everyone will know how to use git and github and that this might feel a little daunting. 
+
+We'd like to encourage you to indulge your curiosity and see if you can figure it out - it's honestly not that hard and can be lots of fun! If this doesn't feel like the right moment for that learning opportunity for you, don't worry. Just send us a quick email with a snippet of JSON for your entry and we'll take care of the rest. Have a look at the [config/companies.json](http://github.com/mattwynne/adn/raw/master/config/companies.json) file for examples.

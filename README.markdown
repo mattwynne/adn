@@ -25,4 +25,4 @@ We'd like to encourage you to indulge your curiosity and see if you can figure i
       "logo_url":"http://www.mycompany.com/images/logo.png"
     }
 
-Have a look at the [config/companies.json](http://github.com/mattwynne/adn/raw/master/config/companies.json) file for more examples.
+Have a look at the [config/companies.json](mailto:http://github.com/mattwynne/adn/raw/master/config/companies.json) file for more examples.

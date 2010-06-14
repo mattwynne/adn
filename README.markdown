@@ -14,15 +14,6 @@ If you've been invited to join the network, here's the preferred way to add your
   * edit the file config/companies.json 
   * send me a pull request
 
-We prefer it that way because the ADN is administered by volunteers and that's the method that's easiest for us. We'd also like you, as an ADN member, to feel some ownership over the content of the website and start to get your hands on it. We do appreciate that not everyone will know how to use git and github and that this might feel a little daunting. 
+We prefer it that way because the ADN is administered by volunteers and that's the method that's easiest for us. We'd also like you, as an ADN member, to feel some ownership over the content of the website and start to get your hands on it.
 
-We'd like to encourage you to indulge your curiosity and see if you can figure it out - it's honestly not that hard and can be lots of fun! If this doesn't feel like the right moment for that learning opportunity for you, don't worry. Just send us a quick [email](mailto:agile-delivery-network@googlegroups.com) with a snippet of JSON for your entry and we'll take care of the rest. Something like this:
-
-    {
-      "name":"My Company",
-      "description":"A description of my company",
-      "url":"http://www.mycompany.com",
-      "logo_url":"http://www.mycompany.com/images/logo.png"
-    }
-
-Have a look at the [config/companies.json](http://github.com/mattwynne/adn/raw/master/config/companies.json) file for more examples.
+We do appreciate that not everyone will want that level of involvement, though. If all this sounds like too much hassle, just [email us](mailto:agile-delivery-network@googlegroups.com) with the details you'd like to see on the site (name, brief description, URL and logo URL) and we'll take care of the rest.

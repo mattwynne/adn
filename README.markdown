@@ -14,7 +14,7 @@ If you've been invited to join the network, here's the preferred way to add your
   * edit the file config/companies.json 
   * send me a pull request
   
-### Sounds a Bit Complicated?
+### Sounds a bit Complicated?
 
 Please remember we're an agile organisation, and this is just the first iteration of our sign-up process. We also want to gently encourage you, as an ADN member, to take some ownership over the content of the organisation's website by starting to get your hands on it.
 

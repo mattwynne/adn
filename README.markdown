@@ -14,6 +14,6 @@ If you've been invited to join the network, here's the preferred way to add your
   * edit the file config/companies.json 
   * send me a pull request
 
-We prefer it that way because the ADN is administered by volunteers and that's the method that's easiest for us. We'd also like you, as an ADN member, to feel some ownership over the content of the website and start to get your hands on it.
+Sounds like too much hassle? Remember we're an agile organisation, and this is the first iteration of our sign-up process. We'd also like to encourage you, as an ADN member, to take some ownership over the content of the website and start to get your hands on it.
 
-We do appreciate that not everyone will want that level of involvement, though. If all this sounds like too much hassle, don't worry - just [drop us a line](mailto:agile-delivery-network@googlegroups.com?subject=My details&body=Please include name, a brief description, URL and logo URL) and one of the other members will be happy to take care of it for you.
+We do appreciate that not everyone will want that level of involvement, though. If that's you, just [drop us a line](mailto:agile-delivery-network@googlegroups.com?subject=My details&body=Please include name, a brief description, URL and logo URL) and one of the other members will no doubt be happy to take care of it.

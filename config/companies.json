@@ -42,6 +42,12 @@
     "logo_url":"http://www.unboxedconsulting.com/images/logo.gif"
   },
   {
+   "name":"Develogical Ltd",
+   "description":"Develogical is a software development consultancy based in London, UK. We specialise in agile software development practices, training, education and research.  We can work with you on development projects, or offer hands-on coaching or consulting for a team wanting to improve their development practices. We believe in the power of agile methods to increase the performance of a development team, in terms of the quality and the value of the work that they produce. We believe that agile methods together with rigorous engineering practices make building software more predictable, more reliable, and more fun.",
+   "url":"http://develogical.com",
+   "logo_url":"http://develogical.com/develogical-logo.png"
+  },
+  {
     "name":"Your Company here?",
     "description":"If you'd like to see your company in this list, visit <a href=\"http://github.com/mattwynne/adn\">http://github.com/mattwynne/adn</a> and follow the instructions in the README"
   }
